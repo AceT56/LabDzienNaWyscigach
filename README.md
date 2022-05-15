@@ -1,5 +1,5 @@
 # LabDzienNaWyscigach
-Rusz Głową C# laboratorium Dzień na wyścigach/ Head First C# Day on the race
+Rusz Głową C# laboratorium Dzień na wyścigach/ Head First C# laboratory Day on the race
 # Getting started
 
 Checkout the source code:
