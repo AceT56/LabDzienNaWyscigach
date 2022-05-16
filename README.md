@@ -6,3 +6,8 @@ Checkout the source code:
 
     $ git clone https://github.com/acet56/LabDzienNaWyscigach.git
 
+or via ssh
+
+    $ git clone git@github.com:acet56/LabDzienNaWyscigach.git
+
+    
