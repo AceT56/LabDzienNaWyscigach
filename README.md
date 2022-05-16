@@ -1,7 +1,7 @@
 # LabDzienNaWyscigach
-C# laboratorium Dzień na wyścigach/ Day on the race
+C# laboratorium Dzień na wyścigach/ Day on the race Windows Forms application
 # Getting started
-
+Open in Visual Studio
 Checkout the source code:
 
     $ git clone https://github.com/acet56/LabDzienNaWyscigach.git
