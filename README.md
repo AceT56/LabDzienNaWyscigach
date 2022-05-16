@@ -10,4 +10,3 @@ or via ssh
 
     $ git clone git@github.com:acet56/LabDzienNaWyscigach.git
 
-Open in Visual Studio    
