@@ -1,5 +1,5 @@
 # LabDzienNaWyscigach
-C# laboratorium Dzień na wyścigach/ Day on the race Windows Forms application
+Gra Dzień na wyścigach/ Game Day on the race 
 # Getting started
 
 Checkout the source code:
